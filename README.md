@@ -8,6 +8,8 @@
 
 You can view my CV [here](https://github.com/satria4s/Portofolio/blob/main/CV_Satria%20Audria%20Sakti.pdf).
 
+This directory is created to showcase my skills in data, share completed projects, and to track my progress in Data Analyst / Data Scientist related topics.
+
 ## Table of Contents
 ## Portofolio Projects
 
