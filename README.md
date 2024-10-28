@@ -12,15 +12,17 @@ You can view my CV [here](https://github.com/satria4s/Portofolio/blob/main/CV_Sa
 ## Portofolio Projects
 
 ## Education
-Institut Teknologi dan Bisnis Bina Sarana Global, Tangerang.
-*Bachelor's degree, Digital Business,*
+Institut Teknologi dan Bisnis Bina Sarana Global, Tangerang.<br>
+*Bachelor's degree, Digital Business,*<br>
 2020 - 2024
 
-SMKN 3 Kota Tangerang.
-*Computer & Network Engineering*
+SMKN 3 Kota Tangerang.<br>
+*Computer & Network Engineering*<br>
 2017 - 2020
 
 ## Certificates
 
 ## Contacts 
-Linkedin: [@satriaaudrias]((https://www.linkedin.com/in/satriaaudrias)
+Linkedin: [@satriaaudrias](https://www.linkedin.com/in/satriaaudrias)
+
+#### Note: This is a work-in-progress directory and will be updated regularly.
