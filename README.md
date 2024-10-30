@@ -12,13 +12,20 @@ This directory is created to showcase my skills in data, share completed project
 
 ## Table of Contents
 - [About](https://github.com/satria4s/Portofolio/blob/main/README.md#About)
-- [Projects]
+- [Projects](https://github.com/satria4s/Portofolio/blob/main/README.md#Portofolio-projects)
   - [Computer Vision](https://github.com/heiwan-bangkit-project/ml-heiwan-tfmodels/blob/main/Model_ProjectCapstone_Heiwan_v3_FINISH.ipynb)
     - This project was created in my final capstone project during Bangkit Academy 2023 Batch 1.<br>
       It was aimed to recognize pet species using its 'image' data as an input then getting its species as the output<br>
       The model was successfully built using TensorFlow (Fine Tuned) and having more than 100 multiclasses (outputs).
       
 ## Portofolio Projects
+This section consist every projects that have been done.
+
+### Heiwan - A pet adoption platform - 
+**Notebook:** [Full Modeling Phase] (https://github.com/heiwan-bangkit-project/ml-heiwan-tfmodels/blob/main/Model_ProjectCapstone_Heiwan_v3_FINISH.ipynb)
+**Description:** This notebook was created during modeling phase in my team's final capstone project, and successfully built multiclass model using TensorFlow (Fine Tuned).
+**Skills:** Data Cleaning, Machine Learning, Computer Vision.
+**Stacks:** Python (Pandas, Numpy, Matplotlib, TensorFlow, etc.), Google Cloud Platform (Model Deployment).
 
 ## Education
 Institut Teknologi dan Bisnis Bina Sarana Global, Tangerang.<br>
