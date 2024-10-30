@@ -30,6 +30,9 @@ This section consist every projects that have been done.
 
 **Stacks:** Python (Pandas, Numpy, Matplotlib, TensorFlow, etc.), Google Cloud Platform (Model Deployment).
 
+---
+### Under Development..
+
 ## Education
 Institut Teknologi dan Bisnis Bina Sarana Global, Tangerang.<br>
 *Bachelor's degree, Digital Business,*<br>
