@@ -1,4 +1,4 @@
-# Satria Audria Sakti - Data Analyst Portofolio
+# Satria Audria Sakti - Portofolio
 
 ## About
 
