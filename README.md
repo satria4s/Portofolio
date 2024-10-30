@@ -19,7 +19,7 @@ This directory is created to showcase my skills in data, share completed project
       The model was successfully built using TensorFlow (Fine Tuned) and having more than 100 multiclasses (outputs).
       
 ## Portofolio Projects
-This section consist every projects that have been done.
+This section contains all completed projects.
 
 ### Heiwan - A pet adoption platform - 
 **Notebook:** [Full Modeling Phase](https://github.com/heiwan-bangkit-project/ml-heiwan-tfmodels/blob/main/Model_ProjectCapstone_Heiwan_v3_FINISH.ipynb)
