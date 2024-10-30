@@ -11,6 +11,13 @@ You can view my CV [here](https://github.com/satria4s/Portofolio/blob/main/CV_Sa
 This directory is created to showcase my skills in data, share completed projects, and to track my progress in Data Analyst / Data Scientist related topics.
 
 ## Table of Contents
+- [About](https://github.com/satria4s/Portofolio/blob/main/README.md#About)
+- [Projects]
+  - [Computer Vision](https://github.com/heiwan-bangkit-project/ml-heiwan-tfmodels/blob/main/Model_ProjectCapstone_Heiwan_v3_FINISH.ipynb)
+    - This project was created in my final capstone project during Bangkit Academy 2023 Batch 1.<br>
+      It was aimed to recognize pet species using its 'image' data as an input then getting its species as the output<br>
+      The model was successfully built using TensorFlow (Fine Tuned) and having more than 100 multiclasses (outputs).
+      
 ## Portofolio Projects
 
 ## Education
