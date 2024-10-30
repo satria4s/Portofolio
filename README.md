@@ -14,9 +14,7 @@ This directory is created to showcase my skills in data, share completed project
 - [About](https://github.com/satria4s/Portofolio/blob/main/README.md#About)
 - [Projects](https://github.com/satria4s/Portofolio/blob/main/README.md#Portofolio-projects)
   - [Computer Vision](https://github.com/heiwan-bangkit-project/ml-heiwan-tfmodels/blob/main/Model_ProjectCapstone_Heiwan_v3_FINISH.ipynb)
-    - This project was created in my final capstone project during Bangkit Academy 2023 Batch 1.<br>
-      It was aimed to recognize pet species using its 'image' data as an input then getting its species as the output<br>
-      The model was successfully built using TensorFlow (Fine Tuned) and having more than 100 multiclasses (outputs).
+    - This project was part of my final capstone for Bangkit Academy 2023 Batch 1. It focused on recognizing pet species from image data, providing species identification as the output. We successfully built and fine-tuned a TensorFlow model, achieving over 100 multiclass classifications.
       
 ## Portofolio Projects
 This section contains all completed projects.
