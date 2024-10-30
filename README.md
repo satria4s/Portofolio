@@ -24,7 +24,7 @@ This section consist every projects that have been done.
 ### Heiwan - A pet adoption platform - 
 **Notebook:** [Full Modeling Phase](https://github.com/heiwan-bangkit-project/ml-heiwan-tfmodels/blob/main/Model_ProjectCapstone_Heiwan_v3_FINISH.ipynb)
 
-**Description:** This notebook was created during modeling phase in my team's final capstone project, and successfully built multiclass model using TensorFlow (Fine Tuned).
+**Description:** This notebook was developed during the modeling phase of our team's final capstone project, where we successfully built and fine-tuned a multiclass classification model                    using TensorFlow.
 
 **Skills:** Data Cleaning, Machine Learning, Computer Vision.
 
