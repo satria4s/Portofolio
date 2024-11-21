@@ -27,7 +27,7 @@ This section contains all completed projects.
 
 **Skills:** Data Cleaning, Machine Learning, Computer Vision.
 
-**Stacks:** Python (Pandas, Numpy, Matplotlib, TensorFlow, etc.), Google Cloud Platform (Model Deployment).
+**Stacks:** Python (Pandas, Numpy, Matplotlib, TensorFlow, etc.), Google Cloud Platform (Model Deployment), BI Tools (Tableau, Google Looker, Power BI).
 
 ---
 ### Under Development..
